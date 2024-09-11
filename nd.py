@@ -1,5 +1,2 @@
-def gioi_thieu():
-    ten = "Đinh Công Linh"
-    print(f"Xin chào! Tên tôi là {ten}.")
+print("Hello")
 
-gioi_thieu()
